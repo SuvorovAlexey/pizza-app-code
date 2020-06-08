@@ -1,0 +1,23 @@
+.StartPage {
+    height: 100vh;
+    text-align: center;
+    background-image: url(../../data/img/bg-contacts.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.StartPage h1 {
+    margin: 150px 0 15px 0;
+    font-size: 75px;
+}
+
+.StartPage a {
+    display: block;
+    margin-top: 30px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
